@@ -14,8 +14,7 @@ import os
 st.set_page_config(page_title="AI Travel Planner", page_icon="✈️", layout="centered")
 
 # Secure API Key
-API_KEY = "AIzaSyBGq9pHs9tTfGipcu3nJ9hPU3DlQk0Hd0I"
-
+API_KEY =  "****************************"
 # UI Title & Description
 st.title("🌍 AI-Powered Travel Planner")
 st.write("📍 Enter your travel details to get estimated travel costs, durations, and recommendations for various travel modes!")
